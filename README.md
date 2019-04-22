@@ -10,6 +10,8 @@ Hier bekommst du den benötigten OAuth Password token
     -> https://twitchapps.com/tmi/
 
 
+Zu editieren ist die main.js, es wird mit komentaren drauhingewiesen wo man was einstellen kann
+
 Hinzufügen einer Nachricht die automatisch gesendet wird
     Titel = Name wie es gespeichert wird
     Text = Der Text der in Twitch ausgegeben werden soll
