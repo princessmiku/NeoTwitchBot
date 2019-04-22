@@ -24,7 +24,7 @@ Standart auf 180 Sekunden, angaben in sekunden
 Setze die zufalls wiedergabe, bei aktivierter kann es vorkommen das 
 die selbe nachricht doppelt gesendet werden kann
 Standart auf true
-    true = an
-    false = aus
+true = an
+false = aus
     
     -> autoMSG.setShuffle(true/false);
