@@ -42,7 +42,7 @@ const options = {
         username: name,
         password: password
     },
-    channels: ['tedy400'],
+    channels: [channelName],
 }
 const client = new tmi.client(options);
 client.connect();
